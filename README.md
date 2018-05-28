@@ -21,3 +21,9 @@ HOMER
   assay()
   rowData()
   
+## download to current working dir
+download.file("http://bowtie-bio.sourceforge.net/recount/ExpressionSets/bottomly_eset.RData", "bottomly_eset.RData")  
+load("bottomly_eset.RData")
+or 
+load(url("http://bowtie-bio.sourceforge.net/recount/ExpressionSets/bottomly_eset.RData"))
+  
