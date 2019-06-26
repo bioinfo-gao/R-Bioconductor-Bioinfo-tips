@@ -2,6 +2,10 @@
 (1) git and github
 ## https://happygitwithr.com/rstudio-git-github.html
 
+the commit messages are necessary for commit by default setting, no matter in CLI or in Rstdio 
+if want to commit without messages: 
+    git commit -a --allow-empty-message -m '' # https://stackoverflow.com/questions/6218199/git-commit-with-no-commit-message
+
 (2) R for data science / machine learning 
 
 (3) mathematics / statistics
