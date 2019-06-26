@@ -1,3 +1,15 @@
+# this file contain all kinds of learning materials 
+(1) git and github
+## https://happygitwithr.com/rstudio-git-github.html
+
+(2) R for data science / machine learning 
+
+(3) mathematics / statistics
+
+(4) Bioinformatics
+
+(5) Biostatistics
+
 # R-Bioconductor-Bioinfo-tips
 
 pipe %>%
